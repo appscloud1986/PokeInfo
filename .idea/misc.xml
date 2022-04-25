@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo - copia-bin/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo - copia-bin/app/src/main/res/layout/fragment_detail.xml" value="0.4365942028985507" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo - copia-bin/app/src/main/res/layout/fragment_list.xml" value="0.4365942028985507" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo - copia-bin/app/src/main/res/layout/fragment_pokemon_detail.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo - copia-bin/app/src/main/res/layout/pokemon_list_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/drawable/ic_image_not_supported_fill0_wght400_grad0_opsz48.xml" value="0.3165" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/layout/fragment_detail.xml" value="0.3917572463768116" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/layout/fragment_list.xml" value="0.45561594202898553" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/layout/fragment_pokemon_detail.xml" value="0.3917572463768116" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/layout/item_pokemon.xml" value="0.25" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo bind2/app/src/main/res/layout/pokemon_list_item.xml" value="0.3917572463768116" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo/app/src/main/res/layout/activity_main.xml" value="0.3858695652173913" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo/app/src/main/res/layout/fragment_detail.xml" value="0.4533514492753623" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo/app/src/main/res/layout/fragment_list.xml" value="0.3858695652173913" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo/app/src/main/res/layout/fragment_pokemon_detail.xml" value="0.4533514492753623" />
+        <entry key="..\:/Users/Christian ED/AndroidStudioProjects/PokeInfo/app/src/main/res/layout/pokemon_list_item.xml" value="0.3858695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
